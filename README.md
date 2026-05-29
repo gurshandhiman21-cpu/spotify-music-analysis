@@ -1,10 +1,10 @@
-# 🎵 Spotify Music Analysis
+#  Spotify Music Analysis
 
 A data analysis project on Spotify songs dataset using Python. The project explores audio features, artist popularity, danceability trends, and provides Top 5 recommendations across multiple categories.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 | File | Description |
 |---|---|
@@ -17,7 +17,7 @@ A data analysis project on Spotify songs dataset using Python. The project explo
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python 3.14**
 - **Pandas** — data loading, cleaning, and analysis
@@ -27,7 +27,7 @@ A data analysis project on Spotify songs dataset using Python. The project explo
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### 1. Most Popular Artists
 Bar chart showing the **Top 10 artists** ranked by their average popularity score across all songs.
@@ -56,15 +56,15 @@ Line chart tracking how **5 key audio features** (danceability, energy, valence,
 
 ### 4. Top 5 Recommendations
 Three side-by-side bar charts showing:
-- 🎵 **Top 5 Songs** by popularity score
-- 🎤 **Top 5 Artists** by average popularity
-- ⚡ **Top 5 Energetic Songs** by energy score
+-  **Top 5 Songs** by popularity score
+-  **Top 5 Artists** by average popularity
+-  **Top 5 Energetic Songs** by energy score
 
 ![Top 5 Summary](top5_summary.png)
 
 ---
 
-## 🏆 Key Findings
+##  Key Findings
 
 - **Most Popular Song:** Die With A Smile — Lady Gaga & Bruno Mars (Score: 100)
 - **Most Popular Artist:** Lady Gaga, Bruno Mars (Avg Score: 100)
@@ -74,7 +74,7 @@ Three side-by-side bar charts showing:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 spotify-music-analysis/
@@ -91,7 +91,7 @@ spotify-music-analysis/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
@@ -112,8 +112,7 @@ jupyter notebook "Spotify Music Analysis.ipynb"
 
 ---
 
-## 👤 Author
+##  Author
 
 **Gurshan Singh**
 BTech CSE — Rayat Bahra University, Mohali
-GitHub: [@gurshandhiman21-cpu](https://github.com/gurshandhiman21-cpu)
